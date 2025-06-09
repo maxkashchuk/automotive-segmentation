@@ -1,0 +1,10 @@
+# Storage directories 
+dataset-description
+datasets
+
+# Environments
+auto-os
+auto-os-gpu
+
+# Byte-compiled
+__pycache__/
